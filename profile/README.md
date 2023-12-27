@@ -1,16 +1,22 @@
-<h1> Cashfree Payments
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="24" height="24">
-</picture>
-</h1>
-<!--
+# Hey There, Developer!
 
-**Here are some ideas to get you started:**
+Welcome to the heartbeat of secure payments! Collect payments, send payouts, and manage international payments with Cashfree Payments. We are a payment platform that provides tailor-made solutions for your business payment needs.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Getting Started
+
+- To know what we offer, use our [Cashfree Dev Studio](https://www.cashfree.com/devstudio) to explore, experiment, and visualise various integrations. 
+
+- Once you finalise on the platform that works best for your business needs, create your [Cashfree Payments account](https://merchant.cashfree.com/merchants/login).
+
+- Check out our comprehensive documentation on our [product offerings](https://docs.cashfree.com/docs) and [APIs](https://docs.cashfree.com/reference). 
+
+
+## What You Will Find!
+
+You can check out our profile and find a collection of things built by Cashfree Payments for reliable and secure transactions. Dive in to explore our hassle-free integration kits, plugins, icons, and more available for you. We strive to attract the developers community who can contribute to and enhance the ecosystem.
+
+Our SDKs streamline the development process with pre-built functionalities, APIs, documents, and resources to help you incorporate our payment functionalities that are compliant with security standards and best practices. 
+## Get In Touch With Us!
+
+You can subscribe to our [Youtube channel](https://www.youtube.com/channel/UCxO0W7xVngh7TfkChPa_nwg/); follow us on [LinkedIn](https://www.linkedin.com/company/cashfree/mycompany/verification/), join our [Discord community](https://discord.com/channels/931125665669972018/931125665669972024).
+
