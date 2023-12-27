@@ -18,5 +18,5 @@ You can check out our profile and find a collection of things built by Cashfree 
 Our SDKs streamline the development process with pre-built functionalities, APIs, documents, and resources to help you incorporate our payment functionalities that are compliant with security standards and best practices. 
 ## Get In Touch With Us!
 
-You can subscribe to our [Youtube channel](https://www.youtube.com/channel/UCxO0W7xVngh7TfkChPa_nwg/); follow us on [LinkedIn](https://www.linkedin.com/company/cashfree/mycompany/verification/), join our [Discord community](https://discord.com/channels/931125665669972018/931125665669972024).
+You can subscribe to our [Youtube channel](https://www.youtube.com/channel/UCxO0W7xVngh7TfkChPa_nwg/); follow us on [LinkedIn](https://www.linkedin.com/company/cashfree/); join our [Discord community](https://discord.com/channels/931125665669972018/931125665669972024).
 
