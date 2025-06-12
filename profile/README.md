@@ -10,6 +10,14 @@ Welcome to the heartbeat of secure payments! Collect payments, send payouts, and
 
 - Check out our comprehensive documentation on our [product offerings](https://docs.cashfree.com/docs) and [APIs](https://docs.cashfree.com/reference). 
 
+## Partner with us - Earn While You Build
+
+As a developer, you're already helping clients go live with Cashfree Payments, why not earn more while doing the same?
+
+Join our [Affiliate Partner Program](https://www.cashfree.com/affiliate-program/?utm_source=github&utm_medium=banner&utm_campaign=Awareness) and earn up to 0.25%* commission on every transaction made by your referred merchants.
+
+[Become a Partner today!](https://partner.cashfree.com/partner-ui/authentication/signup?utm_source=github&utm_medium=banner&utm_campaign=Awareness)
+
 
 ## What You Will Find!
 
